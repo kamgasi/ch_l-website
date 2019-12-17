@@ -1,0 +1,9 @@
+HTML + CSS (SCSS)
+	Grid
+	smooth scroll
+	hello roman buttony
+	navbar rozwijalny
+	rrsponsive web design	
+VueJs
+PHP przeładwanie contentu
+api / baza danych
